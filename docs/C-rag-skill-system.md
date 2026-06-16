@@ -61,7 +61,7 @@
 
   | 资料                  | 用途                              |
   | -------------------- | --------------------------------- |
-  | 《大模型RAG实战》      | 主教材，建立 RAG 系统框架          |
+  | 基于大模型的RAG应用开发与优化 | 主教材，建立 RAG 系统框架          |
   | LLM Cookbook         | 快速补应用代码感                    |
   | LlamaIndex 官方文档      | 学知识库、索引、检索、query engine     |
   | LangChain 官方文档       | 学 RAG chain、retriever、agentic RAG |
@@ -92,6 +92,18 @@
 - [ ] 能设计基础评估集
 - [ ] 能把 RAG 封装成 API 服务
 
+
+## 参考：
+- 基于大模型的RAG应用开发与优化——构建企业级LLM应用.pdf
+- LLM Cookbook（吴恩达教程汉化版）.pdf
+- [all-in-rag](https://datawhalechina.github.io/all-in-rag/)
+- [llama_index](https://github.com/run-llama/llama_index)
+- [LlamaIndex官方文档](https://developers.llamaindex.ai/python/framework/)
+- [langchain](https://github.com/langchain-ai/langchain)
+- [LangChain官方文档](https://docs.langchain.com/)
+- [ragflow](https://github.com/infiniflow/ragflow)
+- [qdrant](https://github.com/qdrant/qdrant)
+- [milvus](https://github.com/milvus-io/milvus)
 
 
 

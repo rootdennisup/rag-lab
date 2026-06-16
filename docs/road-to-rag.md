@@ -96,7 +96,7 @@
 
 - 核心资料
   ```text
-    大模型RAG实战
+    基于大模型的RAG应用开发与优化——构建企业级LLM应用.pdf
     LlamaIndex RAG 官方文档
     LangChain RAG 官方文档
     Qdrant 官方文档

@@ -4,36 +4,36 @@
 
 ```mindmap
   root((Python技能体系))
-    1.语法基础
-      变量与数据类型
-      条件判断
-      循环
-      函数
-      模块导入
-      异常处理
-    2*.核心数据结构
-      list列表
-      dict字典
-      tuple元组
-      set集合
-      字符串处理
-    3.文件与数据处理
-      文件读写
-      JSON处理
-      CSV处理
-      pathlib路径处理
-    4.面向对象与类型
-      class类
-      dataclass
-      类型注解
-      pydantic模型
-    5*.工程基础
+    1*.工程基础
       虚拟环境
       依赖管理
       项目结构
       环境变量
       logging日志
       pytest测试
+    2.语法基础
+      变量与数据类型
+      条件判断
+      循环
+      函数
+      模块导入
+      异常处理
+    3*.核心数据结构
+      list列表
+      dict字典
+      tuple元组
+      set集合
+      字符串处理
+    4.文件与数据处理
+      文件读写
+      JSON处理
+      CSV处理
+      pathlib路径处理
+    5.面向对象与类型
+      class类
+      dataclass
+      类型注解
+      pydantic模型
     6.Web API开发
       HTTP基础
       requests或httpx
