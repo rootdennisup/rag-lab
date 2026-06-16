@@ -31,8 +31,8 @@
       虚拟环境
       依赖管理
       项目结构
-      logging日志
       环境变量
+      logging日志
       pytest测试
     6.Web API开发
       HTTP基础
@@ -51,7 +51,7 @@
   | Python 官方教程            | 系统补语法、数据结构、模块、异常、类  |
   | Python Data Structures 官方章节 | 重点学习 list、dict、list comprehension |
   | FastAPI 官方文档           | 学 API 开发、请求响应、Pydantic     |
-  | Pydantic 官方文档          | 学数据模型、参数校                  |
+  | Pydantic 官方文档          | 学数据模型、参数校验                  |
   | Pytest 官方文档            | 学基础测试                         |
 
 - 辅助资料
@@ -85,3 +85,11 @@
 - [ ] 能管理虚拟环境和依赖
 - [ ] 能看懂常见报错
 - [ ] 能把代码组织成小项目
+
+## 参考
+- [Python 官方教程](https://docs.python.org/zh-cn/3.14/tutorial/index.html)
+- [Python Data Structures](https://docs.python.org/zh-cn/3.14/tutorial/datastructures.html)
+- [Python3 菜鸟教程](https://www.runoob.com/python3/python3-tutorial.html)
+- [FastAPI 官方文档](https://fastapi.tiangolo.com/zh/)
+- [Pydantic 官方文档](https://pydantic.com.cn/)
+- [Pytest 官方文档](https://pytest.cn/en/stable/)
