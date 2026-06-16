@@ -46,22 +46,22 @@
 
 - 官方资料
 
-| 资料                       | 用途                              |
-| ------------------------- | --------------------------------- |
-| Python 官方教程            | 系统补语法、数据结构、模块、异常、类  |
-| Python Data Structures 官方章节 | 重点学习 list、dict、list comprehension |
-| FastAPI 官方文档           | 学 API 开发、请求响应、Pydantic     |
-| Pydantic 官方文档          | 学数据模型、参数校                  |
-| Pytest 官方文档            | 学基础测试                         |
+  | 资料                       | 用途                              |
+  | ------------------------- | --------------------------------- |
+  | Python 官方教程            | 系统补语法、数据结构、模块、异常、类  |
+  | Python Data Structures 官方章节 | 重点学习 list、dict、list comprehension |
+  | FastAPI 官方文档           | 学 API 开发、请求响应、Pydantic     |
+  | Pydantic 官方文档          | 学数据模型、参数校                  |
+  | Pytest 官方文档            | 学基础测试                         |
 
 - 辅助资料
 
-| 资料                                    | 用途                |
-| ------------------------------------- | ----------------- |
-| Real Python                           | 查局部知识点            |
-| Automate the Boring Stuff with Python | 适合半入门者练文件、字符串、自动化 |
-| FastAPI 官方 Tutorial                  | 快速做 Web API       |
-| OpenAI/LlamaIndex/LangChain 示例代码 | 直接进入 AI 应用开发  |
+  | 资料                                    | 用途                |
+  | ------------------------------------- | ----------------- |
+  | Real Python                           | 查局部知识点            |
+  | Automate the Boring Stuff with Python | 适合半入门者练文件、字符串、自动化 |
+  | FastAPI 官方 Tutorial                  | 快速做 Web API       |
+  | OpenAI/LlamaIndex/LangChain 示例代码 | 直接进入 AI 应用开发  |
 
 
 ### 最小验收标准

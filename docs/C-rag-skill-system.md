@@ -59,24 +59,24 @@
 
 - 主线资料
 
-| 资料                  | 用途                              |
-| -------------------- | --------------------------------- |
-| 《大模型RAG实战》      | 主教材，建立 RAG 系统框架          |
-| LLM Cookbook         | 快速补应用代码感                    |
-| LlamaIndex 官方文档      | 学知识库、索引、检索、query engine     |
-| LangChain 官方文档       | 学 RAG chain、retriever、agentic RAG |
-| Qdrant / Milvus 官方文档 | 学向量库工程化                        |
+  | 资料                  | 用途                              |
+  | -------------------- | --------------------------------- |
+  | 《大模型RAG实战》      | 主教材，建立 RAG 系统框架          |
+  | LLM Cookbook         | 快速补应用代码感                    |
+  | LlamaIndex 官方文档      | 学知识库、索引、检索、query engine     |
+  | LangChain 官方文档       | 学 RAG chain、retriever、agentic RAG |
+  | Qdrant / Milvus 官方文档 | 学向量库工程化                        |
 
 
 - 进阶资料
 
-| 资料                             | 用途                  |
-| ------------------------------ | ------------------- |
-| RAGAS 文档 / 论文               | 学 RAG 评估            |
-| Anthropic Contextual Retrieval | 学进阶检索优化             |
-| Haystack 官方文档               | 学 pipeline 式 RAG 架构 |
-| FlashRAG 论文 / 项目            | 了解 RAG 研究型工具与方法集合 |
-| Lewis et al. RAG 论文          | 理解 RAG 原始思想         |
+  | 资料                             | 用途                  |
+  | ------------------------------ | ------------------- |
+  | RAGAS 文档 / 论文               | 学 RAG 评估            |
+  | Anthropic Contextual Retrieval | 学进阶检索优化             |
+  | Haystack 官方文档               | 学 pipeline 式 RAG 架构 |
+  | FlashRAG 论文 / 项目            | 了解 RAG 研究型工具与方法集合 |
+  | Lewis et al. RAG 论文          | 理解 RAG 原始思想         |
 
 
 ### 最小验收标准
